@@ -25,7 +25,7 @@ const History = () => {
               <h1 className="text-green-500 text-3xl md:text-5xl font-semibold">
                 80+
               </h1>
-              <h2 className="text-lg md:text-2xl font-normal">
+              <h2 className="text-base md:text-2xl font-normal">
                 Satisfied Client
               </h2>
             </motion.div>
@@ -36,7 +36,7 @@ const History = () => {
               <h1 className="text-green-500 text-3xl md:text-5xl font-semibold">
                 200+
               </h1>
-              <h2 className="text-lg md:text-2xl font-normal">
+              <h2 className="text-base md:text-2xl font-normal">
                 Project Complete
               </h2>
             </motion.div>
@@ -47,7 +47,9 @@ const History = () => {
               <h1 className="text-green-500 text-3xl md:text-5xl font-semibold">
                 99+
               </h1>
-              <h2 className="text-lg md:text-2xl font-normal">Reviews Given</h2>
+              <h2 className="text-base md:text-2xl font-normal">
+                Reviews Given
+              </h2>
             </motion.div>
             <motion.div
               className="flex flex-col items-center justify-center"
@@ -56,7 +58,7 @@ const History = () => {
               <h1 className="text-green-500 text-3xl md:text-5xl font-semibold">
                 80+
               </h1>
-              <h2 className="text-lg md:text-2xl font-normal">
+              <h2 className="text-base md:text-2xl font-normal">
                 Satisfied Client
               </h2>
             </motion.div>
