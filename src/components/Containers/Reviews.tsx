@@ -29,7 +29,7 @@ const Reviews = () => {
             initial="hidden"
             className="lg:flex flex-col flex-1  gap-5"
           >
-            <div className="flex-1 ">
+            <div className="flex-1 flex flex-col justify-center items-center md:items-start text-center md:text-left ">
               <motion.div
                 variants={FadeInTop}
                 className="px-5 py-2 border-2  border-green-400 w-32 border-solid rounded-[1000%] text-center "
