@@ -9,21 +9,18 @@ const Footer = () => {
         </div>
         <div>
           <h1>
-            <i>Designed by Tanvir Ahmed</i>
+            <i>Designed by Aryfrmnsyh</i>
           </h1>
         </div>
         <div className="flex gap-5">
           <div className="p-2 rounded-full bg-green-500">
-            <img src="assets/icons/facebook.png" alt="" className="w-3" />
+            <img src="assets/icons/instagram.png" alt="" className="w-3" />
           </div>
           <div className="p-2 rounded-full bg-green-500">
-            <img src="assets/icons/facebook.png" alt="" className="w-3" />
+            <img src="assets/icons/facebook.svg" alt="" className="w-3" />
           </div>
           <div className="p-2 rounded-full bg-green-500">
-            <img src="assets/icons/facebook.png" alt="" className="w-3" />
-          </div>
-          <div className="p-2 rounded-full bg-green-500">
-            <img src="assets/icons/facebook.png" alt="" className="w-3" />
+            <img src="assets/icons/linkedin.png" alt="" className="w-3" />
           </div>
         </div>
       </div>

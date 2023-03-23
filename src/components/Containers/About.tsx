@@ -91,7 +91,7 @@ const About = () => {
                 </div>
                 <div className="  bg-green-500 rounded-md flex items-center justify-center -rotate-90 w-5 h-5 sm:w-10 sm:h-10">
                   <img
-                    src="/assets/icons/facebook.png"
+                    src="/assets/icons/facebook.svg"
                     alt="instagram"
                     className="w-5"
                   />

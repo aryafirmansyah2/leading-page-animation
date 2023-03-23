@@ -27,13 +27,13 @@ const Navbar = () => {
     <nav
       className={`${visible ? 'h-auto opacity-100 ' : ' opacity-0 h-0 mt-0'} ${
         currentScroll ? 'bg-white ' : 'bg-transparent'
-      } z-50 fixed w-full top-0`}
+      } z-50 fixed w-full top-0 py-3`}
     >
       <div className="container flex flex-wrap items-center justify-between mx-auto lg:px-32">
         <a href="https://flowbite.com/" className="flex items-center">
-          <div className="w-16 h-16 rounded-full bg-red-500">
+          <div className=" ">
             <img
-              src="/assets/images/logo.png"
+              src="/assets/images/logoo.png"
               alt="logo"
               className="object-cover object-center w-full h-full rounded-full"
             />
@@ -42,7 +42,7 @@ const Navbar = () => {
         <div className="flex md:order-2">
           <button
             type="button"
-            className="text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:outline-none focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 "
+            className="text-green-500 border-2 border-green-500 hover:border-green-600 hover:text-green-600 focus:ring-4 focus:outline-none focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 "
           >
             Download CV
           </button>
